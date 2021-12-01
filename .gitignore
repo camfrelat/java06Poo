@@ -10,6 +10,8 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+.classpath
+
 
 # External tool builders
 .externalToolBuilders/
@@ -79,6 +81,7 @@ local.properties
 
 # Package Files #
 *.jar
+*.class
 *.war
 *.nar
 *.ear
